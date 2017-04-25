@@ -1,4 +1,7 @@
-# api documentation for  [cordova-plugin-battery-status (v1.2.3)](https://github.com/apache/cordova-plugin-battery-status#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-battery-status.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-battery-status) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-battery-status.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-battery-status)
+# npmdoc-cordova-plugin-battery-status
+
+#### basic api documentation for  [cordova-plugin-battery-status (v1.2.3)](https://github.com/apache/cordova-plugin-battery-status#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-battery-status.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-battery-status) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-battery-status.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-battery-status)
+
 #### Cordova Battery Plugin
 
 [![NPM](https://nodei.co/npm/cordova-plugin-battery-status.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cordova-plugin-battery-status)
@@ -102,7 +105,8 @@
         "test": "npm run jshint"
     },
     "types": "./types/index.d.ts",
-    "version": "1.2.3"
+    "version": "1.2.3",
+    "bin": {}
 }
 ```
 
